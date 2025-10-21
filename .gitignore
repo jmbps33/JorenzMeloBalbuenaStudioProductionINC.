@@ -1,0 +1,11 @@
+# .gitignore - common safe defaults
+node_modules/
+dist/
+.env
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
+__pycache__/
+*.pyc
+*.zip
