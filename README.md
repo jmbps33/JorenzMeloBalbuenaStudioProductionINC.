@@ -1,28 +1,22 @@
-# JMB Studio Production, Inc.
+# Online Viewer Net Project
 
-A modern, responsive website for **JMB Studio Production, Inc.**, designed with Tailwind CSS and enhanced with smooth animations and dynamic content sections.
+This project contains an HTML file and external resources for styling and interactivity.
 
-## Features
-- 🎄 Christmas Countdown Banner
-- 🏢 About, History, Founder, and Partner sections
-- 📸 Interactive Gallery and News system
-- 🧑‍💼 Admin Portal with login authentication
-- 🧾 MOA Partnership Form
-- 🎂 Birthday Raffle Registration
-- 🖼️ Customizable Background Settings
+## 📂 File Structure
+```
+project/
+│
+├── online_viewer_net (41).htm
+├── style.css
+├── scripts.js
+├── README.md
+└── .gitignore
+```
 
-## Technologies Used
-- HTML5
-- Tailwind CSS
-- JavaScript (Vanilla)
-- Responsive Design
+## 🚀 How to Use
+1. Keep your original HTML file unchanged.
+2. Link `style.css` and `scripts.js` in your HTML <head> and <body> if needed.
+3. Edit the CSS and JS files to customize visuals and functions.
 
-## Setup Instructions
-1. Clone or download this repository.
-2. Open `index.html` in your browser.
-3. Edit `styles.css` and `scripts.js` as needed.
-4. Host using any web server (e.g., GitHub Pages, Netlify, or Firebase Hosting).
-
-## Author
-**Jorenz M. Balbuena**  
-Founder & CEO — JMB Studio Production, Inc.
+## 👤 Author
+**Jorenz Melo Balbuena**
